@@ -5,7 +5,7 @@ Join me as I combine my scientific curiosity with my newfound coding prowess to 
 
 ###
 
-<img align="right" height="175" src="https://image.pngaaa.com/743/6496743-middle.png"  />
+###<img align="right" height="175" src="https://image.pngaaa.com/743/6496743-middle.png"  />
 
 ###
 
