@@ -1,18 +1,31 @@
-<h4 align="left">👋 Hello there! I'm Mausam Raj, a biology enthusiast turned web development enthusiast! Graduated in 2022 with a B.Sc in Biology from CCSU, I've embarked on an exciting journey of self-discovery and growth. <br> </br>
-💻 My current adventure involves mastering Data Structures and Algorithms in Java.<br> </br>
+# Hi there! 👋 I'm Mausam.
 
+## 👨‍💻 About Me
+I'm a passionate software developer with a love for creating efficient and elegant solutions. My journey in the tech world has equipped me with valuable technical skills, and I'm always excited to learn and explore new technologies.
 
-###
+## 🚀 Technical Skills
+- **Languages:** Java, SQL, HTML, CSS
+- **Frameworks:** Spring Boot, Hibernate
+- **GUI Development:** Swing
+- **Data Structures and Algorithms:** Proficient in DSA
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-</div>
+## 🌱 Currently Learning
+I'm currently diving deeper into HMTL, CSS and JavaScript, and I'm always open to new challenges and opportunities for growth.
 
-###
+## 📫 Connect with Me
+- LinkedIn: [www.linkedin.com/in/mausam-raj](www.linkedin.com/in/mausam-raj)
+- Email: [mausamraj100@gmail.com](mailto:mausamraj100@gmail.com)
 
+## 📈 GitHub Stats
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mausam1815&show_icons=true&theme=radical)](https://github.com/Mausam1815)
 
-###
+<!-- 
+## 📚 Featured Repositories
+- [Repository 1 Name](https://github.com/your-username/repo1): Short description of the repository.
+- [Repository 2 Name](https://github.com/your-username/repo2): Short description of the repository.
+-->
+
+## 🤝 Let's Collaborate
+I'm always open to collaboration and welcome contributions to my projects. If you have an idea or want to work together, feel free to reach out!
+
+Thanks for stopping by, and happy coding! 🚀
