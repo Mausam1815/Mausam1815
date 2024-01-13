@@ -4,10 +4,10 @@
 I'm a passionate software developer with a love for creating efficient and elegant solutions. My journey in the tech world has equipped me with valuable technical skills, and I'm always excited to learn and explore new technologies.
 
 ## 🚀 Technical Skills
-- **Languages:** Java, SQL, HTML, CSS
-- **Frameworks:** Spring Boot, Hibernate
-- **GUI Development:** Swing
-- **Data Structures and Algorithms:** Proficient in DSA
+- **Languages:** Java, SQL, JavaScript
+- **Frameworks:** Spring Boot, Hibernate, JPA
+- **GUI Development:** HTML, CSS, Java Swing
+- **Data Structures and Algorithms:** Intermediate in DSA
 
 ## 🌱 Currently Learning
 I'm currently diving deeper into HMTL, CSS and JavaScript, and I'm always open to new challenges and opportunities for growth.
